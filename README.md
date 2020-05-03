@@ -1,4 +1,4 @@
-# E12b-Github
+# E12b-Github sunny patel 2020 c220 completes github assignment
 
 This repository contains a very simple Godot project, but the exercise centers on tools (available to you through Github) for collaborating with others on a project like this one. 
 
